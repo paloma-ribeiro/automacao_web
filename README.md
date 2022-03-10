@@ -1,9 +1,13 @@
 # automacao_web
 
-## Automação Web e busca de informações com Python - Hashtag Programação
+## Automação Web e busca de informações com Python
 
 ### Conteúdo
-
+- Automação Web
+- (Web Scraping)
+- Selenium
+- Exportar Relatórios
+- Pesquisa Automática
 
 ### Tecnologias Utilizadas
 #### Python: 3.10
