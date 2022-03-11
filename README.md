@@ -26,10 +26,10 @@
 - numpy: 1.22.3
 - openpyxl: 3.0.9
 
-### Instalação das depências
+### Instalação das dependências
 > pip install -r requirements.txt
 
-### Instalação das depências (forma alternativa)
+### Instalação das dependências (forma alternativa)
 #### pip install selenium
 #### pip install pandas
 #### pip install openpyxl
