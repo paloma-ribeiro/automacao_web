@@ -2,6 +2,14 @@
 
 ## Automação Web e busca de informações com Python
 
+### Descrição do Desafio
+
+#### Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
+- Dólar
+- Euro
+- Ouro
+#### Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e saber quanto devemos cobrar pelos nossos produtos, considerando uma margem de contribuição que temos na nossa base de dados.
+
 ### Conteúdo
 - Automação Web
 - (Web Scraping)
